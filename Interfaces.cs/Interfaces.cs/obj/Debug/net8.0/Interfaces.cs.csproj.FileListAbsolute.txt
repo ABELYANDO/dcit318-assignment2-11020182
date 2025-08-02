@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Assignment 2\Interfaces.cs\Interfaces.cs\obj\Debug\net8.0\Interfaces.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Assignment 2\Interfaces.cs\Interfaces.cs\obj\Debug\net8.0\Interfaces.cs.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Assignment 2\Interfaces.cs\Interfaces.cs\obj\Debug\net8.0\Interfaces.cs.AssemblyInfo.cs
+C:\Users\HP\Desktop\Assignment 2\Interfaces.cs\Interfaces.cs\obj\Debug\net8.0\Interfaces.cs.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Assignment 2\Interfaces.cs\Interfaces.cs\bin\Debug\net8.0\Interfaces.cs.exe
+C:\Users\HP\Desktop\Assignment 2\Interfaces.cs\Interfaces.cs\bin\Debug\net8.0\Interfaces.cs.deps.json
+C:\Users\HP\Desktop\Assignment 2\Interfaces.cs\Interfaces.cs\bin\Debug\net8.0\Interfaces.cs.runtimeconfig.json
+C:\Users\HP\Desktop\Assignment 2\Interfaces.cs\Interfaces.cs\bin\Debug\net8.0\Interfaces.cs.dll
+C:\Users\HP\Desktop\Assignment 2\Interfaces.cs\Interfaces.cs\bin\Debug\net8.0\Interfaces.cs.pdb
+C:\Users\HP\Desktop\Assignment 2\Interfaces.cs\Interfaces.cs\obj\Debug\net8.0\Interfaces.cs.dll
+C:\Users\HP\Desktop\Assignment 2\Interfaces.cs\Interfaces.cs\obj\Debug\net8.0\refint\Interfaces.cs.dll
+C:\Users\HP\Desktop\Assignment 2\Interfaces.cs\Interfaces.cs\obj\Debug\net8.0\Interfaces.cs.pdb
+C:\Users\HP\Desktop\Assignment 2\Interfaces.cs\Interfaces.cs\obj\Debug\net8.0\Interfaces.cs.genruntimeconfig.cache
+C:\Users\HP\Desktop\Assignment 2\Interfaces.cs\Interfaces.cs\obj\Debug\net8.0\ref\Interfaces.cs.dll
