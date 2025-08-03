@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Assignment 2\shapes.cs\shapes.cs\bin\Debug\net8.0\shapes.cs.exe
+C:\Users\HP\Desktop\Assignment 2\shapes.cs\shapes.cs\bin\Debug\net8.0\shapes.cs.deps.json
+C:\Users\HP\Desktop\Assignment 2\shapes.cs\shapes.cs\bin\Debug\net8.0\shapes.cs.runtimeconfig.json
+C:\Users\HP\Desktop\Assignment 2\shapes.cs\shapes.cs\bin\Debug\net8.0\shapes.cs.dll
+C:\Users\HP\Desktop\Assignment 2\shapes.cs\shapes.cs\bin\Debug\net8.0\shapes.cs.pdb
+C:\Users\HP\Desktop\Assignment 2\shapes.cs\shapes.cs\obj\Debug\net8.0\shapes.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Assignment 2\shapes.cs\shapes.cs\obj\Debug\net8.0\shapes.cs.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Assignment 2\shapes.cs\shapes.cs\obj\Debug\net8.0\shapes.cs.AssemblyInfo.cs
+C:\Users\HP\Desktop\Assignment 2\shapes.cs\shapes.cs\obj\Debug\net8.0\shapes.cs.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Assignment 2\shapes.cs\shapes.cs\obj\Debug\net8.0\shapes.cs.dll
+C:\Users\HP\Desktop\Assignment 2\shapes.cs\shapes.cs\obj\Debug\net8.0\refint\shapes.cs.dll
+C:\Users\HP\Desktop\Assignment 2\shapes.cs\shapes.cs\obj\Debug\net8.0\shapes.cs.pdb
+C:\Users\HP\Desktop\Assignment 2\shapes.cs\shapes.cs\obj\Debug\net8.0\shapes.cs.genruntimeconfig.cache
+C:\Users\HP\Desktop\Assignment 2\shapes.cs\shapes.cs\obj\Debug\net8.0\ref\shapes.cs.dll
